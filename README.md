@@ -497,7 +497,7 @@ Results saved to `outputs/plots_results/model_comparison_results.csv`.
 ## 👥 Authors
 
 **Course**: Introduction to Machine Learning  
-**Institution**: [Your University]  
+**Institution**: Mugla Sitki Kocman University
 **Semester**: Fall 2026
 
 ---
